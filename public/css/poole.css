@@ -114,6 +114,11 @@ strong {
 }
 
 
+a.inter-header {
+  text-decoration: none!important;
+  color: #000;
+}
+
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
