@@ -15,6 +15,7 @@ In this blog post, we are going to explore how money evolved over time and what 
 - [History of Money](#History)
 - [Intrinsic value and Extrinsic values](#IntrinsicAndExtrinsic)
 - [Demand and Supply](#DemandAndSupply)
+- [Conclusion](#Conclusion)
 
 <h3><b><a name = "History" class="inter-header">History of Money</a></b></h3>
 
@@ -46,9 +47,9 @@ How to make that distinction? Well, look at if that asset is directly/indirectly
 
 Another important factor that determines the value of a financial instrument is demand and supply. In a vegetable market and when there is abundant supply of tomatoes and not much demand then the sellers would automatically reduce the prices so that buyers will be tempted to buy more tomatoes instead of other vegetables. Of course its not that straighforward all of the time and multiple factors also come into play.
 
-In stock markets, supply and demand may mean liquidity/free flow of money in the market
+In stock markets, supply and demand may mean liquidity/free flow of money in the market. If people have very less money, then you will not find people to sell it to and that means you have to lower your profits to convince the buyers who are very less in number. This principle is applicable everywhere but may exist in inverse as well. Consider previous jewels, their prices are not necessarily controlled by demand/supply but rather with the perception of value. The yellow metal, diamonds, rubies have always been extremely costly because of perception of value principle. Also reading about the [paradox of value principle](https://en.wikipedia.org/wiki/Paradox_of_value) also explains it a lot. 
 
+<h3><b><a name = "Conclusion" class="inter-header">Conclusion</a></b></h3>
 
-
-
+So we saw how value perception was in olden days and also how people view the value of a particular commodity and whether it is intrinsic or extrinsic. Demand/Supply is another classic principle that exists from time immemorial. These disparities one might call it exist everywhere from teachers being paid low salaries to pop culture musicians having billions in their assets. It is important to understand these principles from the right perspective so that you can cut down on all the misinformation and understand things from a holistic perspective. 
 
