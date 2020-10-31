@@ -51,5 +51,5 @@ In stock markets, supply and demand may mean liquidity/free flow of money in the
 
 <h3><b><a name = "Conclusion" class="inter-header">Conclusion</a></b></h3>
 
-So we saw how value perception was in olden days and also how people view the value of a particular commodity and whether it is intrinsic or extrinsic. Demand/Supply is another classic principle that exists from time immemorial. These disparities one might call it exist everywhere from teachers being paid low salaries to pop culture musicians having billions in their assets. It is important to understand these principles from the right perspective so that you can cut down on all the misinformation and understand things from a holistic perspective. 
+So we saw how value perception was in olden days and also how people view the value of a particular commodity and whether it is intrinsic or extrinsic. Demand/Supply is another classic principle that exists from time immemorial. These disparities one might call it exist everywhere from teachers being paid low salaries to pop culture musicians having billions in their assets. It is important to understand these principles from the right perspective so that you can cut down on all the misinformation and understand things the right way. 
 
