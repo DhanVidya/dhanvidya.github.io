@@ -18,3 +18,9 @@ google_analytics_id: UA-165592418-1
 
 plugins:
   - jekyll-sitemap
+
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap  
