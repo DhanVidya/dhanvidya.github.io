@@ -2,6 +2,7 @@
 layout: post
 title: Understanding Perceived Value of Money
 permalink: blog/understanding-perceived-value-of-money/
+tags : Basics
 ---
 
 > “Wealth is the ability to fully experience life.” - Henry David Thoreau
