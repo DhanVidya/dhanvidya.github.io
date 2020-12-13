@@ -31,7 +31,22 @@ Now that I have explained why should start reading books, let me explain why e-i
 
 Kindle is of course from Amazon and is mainly used to read e-books and based on e-ink technology. There are lot of e-ink readers out there but Kindle has the most widely available books (through Kindle unlimited) and has a solid platform on which it is built upon. You can also load your existing e-books after converting them to a format called `.mobi` which is specific to Kindle using a free software called [Calibre](https://calibre-ebook.com/). It is probably the most battle tested/used e-ink reader out there so you can just go buy them without second thoughts.
 
+I haven't listed the obvious advantages such as
+
+- Obviously saves a lot of space compared to physical books.
+- Reading with no external light sources. Kindle has something fascinating called [front lit screen](https://computer.howstuffworks.com/tablets/kindle-paperwhite2.htm).
+- Travel friendly. You can take several books with you but most importantly is that you can access them from anywhere
+  using an internet connection.
+- Pocket friendly. E-Books are far cheaper than their physical book alternatives because there is no manufacturing cost involved.
+- Inbuilt dictionary which does not require any internet connection.
+- Font size adjustments. 
+- Costlier versions of Kindle even have water resistance, free 3G/4G connection for downloading books and much more. 
+
 <h3><b><a name = "Footnotes" class="inter-header">Footnotes</a></b></h3>
+
+You might find conflicting studies online regarding advantages of Kindle and E-Ink readers in general. But all I can say is decide for yourself. I have found a significant difference in reading on Kindle vs Tablets/Laptops.
+
+Traditional books are definitely special. But for all practical purposes and doing a very small part in saving the planet/lesser carbon footprint, choose Kindle.
 
 If this article has changed your mind and you are interested then you can start off with the basic version of kindle which is the cheapest and then upgrade if required (Affiliate Link) - [Kindle (10th Gen), 6" Display with Built-in Light,WiFi (Black)](https://amzn.to/3pUnx6S)
 
