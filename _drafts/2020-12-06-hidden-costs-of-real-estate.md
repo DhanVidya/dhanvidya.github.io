@@ -36,6 +36,10 @@ One time expenses (During buying/selling)
 
 - Capital gains tax
 
+- Legal fees
+  
+  Fees spent to check whether the real estate fulfills all legal parameters.
+
 
 Recurring expenses (During the holding period)
 
@@ -44,3 +48,8 @@ Recurring expenses (During the holding period)
 - Maintenance costs
  
   Given to a broker or someone to take of property or driving down there to check if the property is in good condition
+
+
+<h3><b><a name = "ClosingNotes" class="inter-header">Closing notes</a></b></h3>
+
+This blog post is not to demotivate investors from investing into real estate, but to bring to the table these hidden costs because they are often ignored. So the next time you calculate returns, keep these in mind. Tracking them meticulously may not work, but keep a rough figure in mind for all of these to add/adjust in returns. 
