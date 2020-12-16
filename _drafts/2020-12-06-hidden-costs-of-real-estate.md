@@ -36,20 +36,28 @@ One time expenses (During buying/selling)
 
 - Capital gains tax
 
+  This can be avoided under `Section 54F` but you are just postponing of payment rather than exemption. There are several other restrictions as well.
+
 - Legal fees
   
   Fees spent to check whether the real estate fulfills all legal parameters.
 
+- Auditor fees
+
+  Fees given to a Chartered Accountant or Auditor for tax calculation and savings.
 
 Recurring expenses (During the holding period)
 
-- Property tax?
+- Property tax
 
 - Maintenance costs
  
-  Given to a broker or someone to take of property or driving down there to check if the property is in good condition
+  Given to a broker or someone toy/atake of property or driving down there to check if the property is in good condition
 
+There are some exemptions to the above rules but the overall message that I want to put across is that there is much more than what meets the eye.
+
+Real estate is ridden with black money/unaccounted money which makes it another challenged when the government brings in more and more stricter laws and curbs. 
 
 <h3><b><a name = "ClosingNotes" class="inter-header">Closing notes</a></b></h3>
 
-This blog post is not to demotivate investors from investing into real estate, but to bring to the table these hidden costs because they are often ignored. So the next time you calculate returns, keep these in mind. Tracking them meticulously may not work, but keep a rough figure in mind for all of these to add/adjust in returns. 
+This blog post is not to demotivate investors from investing into real estate, but to bring to the table these hidden costs because they are often ignored. So the next time you calculate returns, keep these in mind. Tracking them meticulously may not be practical, but keep a rough figure in mind for all of these to add/adjust in returns. 
