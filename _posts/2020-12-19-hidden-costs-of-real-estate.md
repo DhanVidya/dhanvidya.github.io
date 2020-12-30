@@ -2,11 +2,14 @@
 layout: post
 title: Hidden costs of real estate
 permalink: blog/hidden-costs-of-real-estate/
-tags : Investing
+tags : Investing Basics
 ---
 
+> <i class="fas fa-building fa-lg"></i>
+> 
+> "Risk comes from not knowing what you’re doing." – Warren Buffett
 
-<i class="fa fa-list-ul fa-lg space-right"></i> Index
+<i class="fa fa-list-ul fa-lg">&nbsp;</i> Index
 
 - [Introduction](#Introduction)
 - [Hidden costs](#HiddenCosts)

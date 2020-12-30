@@ -5,13 +5,15 @@ permalink: blog/understanding-perceived-value-of-money/
 tags : Basics
 ---
 
+> <i class="fas fa-coins fa-lg"></i>
+> 
 > “Wealth is the ability to fully experience life.” - Henry David Thoreau
 
 This is one of the most crucial aspects that is often not understood/misunderstood/completely ignored when one tries to understand
 finance and economics. After all, learning even a bit of human psychology helps a lot in making prudent decisions in money matters.
 In this blog post, we are going to explore how money evolved over time and what made people respect money and how the rupee came into being.
 
-<i class="fa fa-list-ul fa-lg space-right"></i> Index
+<i class="fa fa-list-ul fa-lg">&nbsp;</i> Index
 
 - [History of Money](#History)
 - [Intrinsic value and Extrinsic values](#IntrinsicAndExtrinsic)

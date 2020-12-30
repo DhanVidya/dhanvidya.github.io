@@ -6,10 +6,16 @@ tags : Referrals
 ---
 
 
-Kindle is one of the most under rated investments you can make 
+> <i class="fa fa-book fa-lg"></i>
+> 
+> “Sleep is good, he said, and books are better.” – George R.R. Martin
 
 
-<i class="fa fa-list-ul fa-lg space-right"></i> Index
+Kindle <i class="fas fa-tablet-alt">&nbsp;</i>  is one of the most under rated investments you can make. In this article we see why reading books is good
+and why Kindle should be your default way of reading books.
+
+
+<i class="fa fa-list-ul fa-lg">&nbsp;</i> Index
 
 - [The Habit of book reading](#BookReading)
 - [Why E-Ink?](#WhyEInk)
@@ -55,7 +61,5 @@ That's my kindle down below,
 ![Kindle](/public/images/kindle.jpg)
 
 If you are interested in the cover, then you can purchase it [here](https://amzn.to/33KPDYM).
-
-> “Sleep is good, he said, and books are better.” – George R.R. Martin
 
 Happy Reading :)
