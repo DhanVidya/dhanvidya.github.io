@@ -59,7 +59,7 @@ Recurring expenses (During the holding period)
 
 - Maintenance costs.
  
-  Given to a broker or someone toy/atake of property or driving down there to check if the property is in good condition. 
+  Given to a broker or someone to take of property or driving down there to check if the property is in good condition. 
 
 There are some exemptions to the above rules but the overall message that I want to put across is that there is much more than what meets the eye.
 
